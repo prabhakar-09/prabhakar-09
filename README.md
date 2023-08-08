@@ -1,5 +1,5 @@
  ### Hi there 👋
-<!-- I'm Prabhakar -->
+ I'm Prabhakar 
 
 <!--
 **prabhakar-09/prabhakar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 ## About Me
 
-👋 Hi there! I'm a Full Stack Java Developer with a passion for crafting robust and scalable applications. I love diving into complex problems and turning them into elegant solutions.
+I'm a Full Stack Java Developer with a passion for crafting robust and scalable applications. I love diving into complex problems and turning them into elegant solutions.
 
 - 🌱 I’m currently learning: Exploring advanced Spring frameworks and diving deeper into a microservices architecture.
 - 👯 I’m looking to collaborate on Exciting Java Spring-Boot projects that challenge the boundaries of technology.
