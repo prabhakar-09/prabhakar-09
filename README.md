@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 I'm a Full Stack Java Developer with a passion for crafting robust and scalable applications. I love diving into complex problems and turning them into elegant solutions.
 
-- 🌱 I’m currently learning: Exploring advanced Spring frameworks and diving deeper into a microservices architecture.
+- 🌱 I’m currently learning & Exploring advanced Spring frameworks and diving deeper into a microservices architecture.
 - 👯 I’m looking to collaborate on Exciting Java Spring-Boot projects that challenge the boundaries of technology.
 - 🤔 I’m looking for help with Fine-tuning performance in Java applications and optimizing database queries.
 - 💬 Ask me about Java development, RESTful APIs, front-end technologies, and software architecture.
